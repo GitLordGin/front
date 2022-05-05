@@ -1,0 +1,68 @@
+Date : 2022-05-05 19:00:15
+Directory : c:\Users\Gintautas\Desktop\Bakis\frontend
+Total : 33 files,  30853 codes, 204 comments, 259 blanks, all 31316 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     28,218 |          0 |          3 |     28,221 |
+| JavaScript |         27 |      2,274 |        170 |        170 |      2,614 |
+| CSS        |          1 |        303 |         11 |         52 |        366 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                    |         33 |     30,853 |        204 |        259 |     31,316 |
+| public                                                                               |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                  |         28 |      2,577 |        181 |        222 |      2,980 |
+| src\AdminPage                                                                        |          5 |        436 |          7 |         21 |        464 |
+| src\ConstellationList                                                                |          4 |        438 |          0 |         19 |        457 |
+| src\StarList                                                                         |          4 |        329 |          1 |         16 |        346 |
+| src\redux                                                                            |          7 |        292 |          0 |         31 |        323 |
+| src\redux\reducers                                                                   |          6 |        271 |          0 |         29 |        300 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                             | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Gintautas\Desktop\Bakis\frontend\README.md                                  | Markdown   |         38 |          0 |         33 |         71 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\package-lock.json                          | JSON       |     28,140 |          0 |          1 |     28,141 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\package.json                               | JSON       |         53 |          0 |          1 |         54 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\public\index.html                          | HTML       |         20 |         23 |          1 |         44 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\public\manifest.json                       | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\API.js                                 | JavaScript |        145 |          0 |         12 |        157 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\AdminPage\AdjustComponent.js           | JavaScript |         84 |          1 |          4 |         89 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\AdminPage\AdminPage.js                 | JavaScript |         65 |          5 |          8 |         78 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\AdminPage\ItemComponetn.js             | JavaScript |         36 |          0 |          2 |         38 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\AdminPage\ListComponent.js             | JavaScript |        147 |          1 |          4 |        152 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\AdminPage\RowComponent.js              | JavaScript |        104 |          0 |          3 |        107 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\App.css                                | CSS        |        303 |         11 |         52 |        366 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\App.js                                 | JavaScript |         36 |          0 |          4 |         40 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\BLE.js                                 | JavaScript |        226 |        161 |         31 |        418 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\ConstellationList\AddConstellation.js  | JavaScript |        153 |          0 |          5 |        158 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\ConstellationList\ConstellationList.js | JavaScript |         77 |          0 |          3 |         80 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\ConstellationList\ConstellationRow.js  | JavaScript |         40 |          0 |          3 |         43 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\ConstellationList\EditConstellation.js | JavaScript |        168 |          0 |          8 |        176 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\Menu.js                                | JavaScript |        195 |          0 |         11 |        206 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\StarList\AddStar.js                    | JavaScript |         93 |          0 |          4 |         97 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\StarList\EditStar.js                   | JavaScript |        100 |          0 |          6 |        106 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\StarList\StarList.js                   | JavaScript |         70 |          1 |          3 |         74 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\StarList\StarRow.js                    | JavaScript |         66 |          0 |          3 |         69 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\StarMap.js                             | JavaScript |         60 |          1 |          9 |         70 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\index.js                               | JavaScript |         14 |          0 |          2 |         16 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\BLESlice.js             | JavaScript |         62 |          0 |          9 |         71 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\ConstellationsSlice.js  | JavaScript |         33 |          0 |          4 |         37 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\ListComponentSlice.js   | JavaScript |         90 |          0 |          4 |         94 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\StarsSlice.js           | JavaScript |         25 |          0 |          4 |         29 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\adjustComponentSlice.js | JavaScript |         14 |          0 |          4 |         18 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\reducers\otherBLESlice.js        | JavaScript |         47 |          0 |          4 |         51 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\redux\store.js                         | JavaScript |         21 |          0 |          2 |         23 |
+| c:\Users\Gintautas\Desktop\Bakis\frontend\src\utils.js                               | JavaScript |        103 |          0 |         14 |        117 |
+| Total                                                                                |            |     30,853 |        204 |        259 |     31,316 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
